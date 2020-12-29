@@ -1,10 +1,10 @@
-# EX2
+__# EX2__
 
 A  web application with a react Js in Frontend and a nodeJs Backend and connect them with an API.
 
 
 
-#Backend
+__#Backend__
 
 
 To connect to the Backend server enter the commands
@@ -19,7 +19,7 @@ $ npm install
 $ npm start 
 
 
-#Frontend
+__#Frontend__
 
 
 enter the commands : 

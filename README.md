@@ -5,14 +5,29 @@ A  web application with a react Js in Frontend and a nodeJs Backend and connect 
 
 
 #Backend
+
+
 To connect to the Backend server enter the commands
+
+
 $ cd Backend-server
+
+
 $ npm install 
+
+
 $ npm start 
 
+
 #Frontend
+
+
 enter the commands : 
 
 $ cd frontend
+
+
 $ npm install
+
+
 $ npm start 
